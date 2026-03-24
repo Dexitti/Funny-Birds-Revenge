@@ -1,5 +1,5 @@
 ## Funny Birds: Revenge
-Funny Birds: Revenge – is a arcade game where you control the bird with your finger, collect bonuses and fight enemies!
+Funny Birds: Revenge is an arcade game where you control the bird with your finger, collect bonuses and fight enemies!
 
 ## 🎮 Gameplay
 - 👆 **Control**: Lead the bird with your finger - it will follow you
